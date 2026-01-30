@@ -1,9 +1,17 @@
-# Enterprise Endpoint Security Notes
+ Enterprise Endpoint Security Baseline
 
-Enterprise endpoints are critical to digital workplace security.
+This repository contains practical scripts, checklists, and documentation
+focused on improving endpoint security and digital workplace resilience
+in enterprise environments.
 
-## Focus Areas
-- Endpoint hardening
-- Data protection
+The materials here are based on applied experience in regulated
+enterprise IT environments, with emphasis on:
+
+- Endpoint encryption and data protection
+- Secure device configuration
 - Identity and access control
-- Operational resilience
+- Secure remote access
+- Standardised device provisioning
+
+This repository is intended for learning, research, and security
+baseline assessment purposes.
