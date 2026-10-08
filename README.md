@@ -1,17 +1,15 @@
-# enterprise-endpoint-security-baseline
-Practical scripts and documentation for securing enterprise endpoints and digital workplace environments.
-This repository contains practical scripts, checklists, and documentation
-focused on improving endpoint security and digital workplace resilience
-in enterprise environments.
+# Enterprise Endpoint Security Baseline
 
-The materials here are based on applied experience in regulated
-financial services and enterprise IT environments, with emphasis on:
+Practical scripts and documentation for securing enterprise Windows endpoints and digital workplace environments.
 
-- Endpoint encryption and data protection
-- Secure device configuration
-- Identity and access control
-- Secure remote access
-- Standardised device provisioning
+## Documentation
+- [Enterprise deployment guide](docs/enterprise-deployment-guide.md)
+- [BitLocker baseline](configs/bitlocker-baseline.md)
+- [Microsoft Defender baseline](configs/defender-baseline.md)
+- [Firewall baseline](configs/firewall-baseline.md)
+- [Compliance baseline](configs/compliance-baseline.md)
+- [PowerShell verification instructions](scripts/README.md)
 
-This repository is intended for learning, research, and security
-baseline assessment purposes.
+The repository includes endpoint encryption, secure device configuration, identity and access control, secure remote access and standardised provisioning materials. Existing project folders and history are preserved.
+
+**Safety:** Verification is read-only. Sample policies require approval, pilot testing, recovery-key escrow verification and staged rollout. These materials do not establish that an enterprise deployment has been completed.
